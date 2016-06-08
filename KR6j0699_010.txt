@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:04.971853
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:30
 #+TITLE: 楞嚴經直指
 #+PROPERTY: CBETA_ID X14n0291
 #+PROPERTY: ID KR6j0699
@@ -1072,7 +1072,7 @@
 直指卷第十¶
 ¶
 
-音釋
+** 音釋
 <pb:KR6j0699_X_010-0602c>¶
 
 殫
